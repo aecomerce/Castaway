@@ -1,0 +1,146 @@
+@media screen  and  (max-width: 1400px) {
+    .preview-title {
+        font-size: 50px;
+    }
+
+    .episode-title {
+        font-size: 45px;
+    }
+
+    .title-episodes {
+        font-size: 45px;
+        line-height: 45px;
+    }
+
+    .hero-name {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .title-subscribe {
+        font-size: 50px;
+    }
+
+    .reviews-item__title {
+        font-size: 30px;
+      }
+    
+}
+
+@media screen  and  (max-width: 1060px) {
+    .episode-title {
+        font-size: 30px;
+    }
+
+    .discription-episode {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+}
+
+@media screen  and  (max-width: 940px) {
+    .episode-items {
+        min-height: 300px;
+    }
+
+    .episode-img-wrapper {
+        display: none;
+    }
+
+    .details-episode {
+        display: flex;
+        padding: 0;
+        gap: 40px;
+    }
+
+    .hero-details__button {
+       width: 70px;
+       height: 70px;
+    }
+
+    .hero-details__description {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .reviews-item {
+        width: calc(50% - 12px);
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .footer-nav {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .logo-social-icons {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    .nav-links-footer li,
+    .nav-links__2 li {
+      width: 100%;
+      text-align: center;
+    }
+
+    .nav-links-sound-icons {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+}
+
+@media screen  and  (max-width: 800px) {
+    .preview-hero {
+        display: none;
+    }
+
+    .title-sounds {
+        width: 100%;
+        padding: 0;
+    }
+
+    .preview-title {
+       align-items: center;
+       margin-bottom: 10px;
+    }
+
+    .title-sounds-icons p {
+        text-align: center;
+    }
+
+    .sound-icons-group {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .hero-img {
+        display: none;
+    }
+
+    .hero-details {
+        width: 100%;
+        padding: 0;
+        align-items: center;
+    }
+
+    .hero-details__description {
+        max-width: 500px;
+        line-height: 40px;
+    }
+
+    .subscribe-details {
+        flex-direction: column;
+        align-items: center;
+        padding: 40px;
+    }
+
+}
+
+
