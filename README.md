@@ -1,8 +1,8 @@
 Layout of a one-page website Castaway.
 ===
 
-Genre: podcast site
-Non responsible web layout from figma design.
+Genre: podcast site. 
+Not responsible web layout from figma design.
 
 --- 
 
